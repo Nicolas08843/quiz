@@ -1,0 +1,177 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+
+
+.caja1 {
+    background-color: rgb(236, 17, 61);
+    height: 10vh;
+    padding: 0;
+}
+.caja2 {
+    background-color: rgb(228, 85, 18);
+    height: 10vh;
+    padding: 0;
+}
+.caja3 {
+    background-color: rgb(216, 130, 73);
+    height: 10vh;
+    padding: 0;
+}
+.caja4 {
+    background-color: rgb(236, 221, 17);
+    height: 10vh;
+    padding: 0;
+}
+.caja5 {
+    background-color: rgb(132, 224, 57);
+    height: 50vh;
+    padding: 0;
+}
+.caja6 {
+    background-color: rgb(32, 209, 121);
+    height: 30vh;
+    padding: 0;
+}
+.caja7 {
+    background-color: rgb(43, 151, 97);
+    height: 30vh;
+    padding: 0;
+}
+.caja8 {
+    background-color: rgb(39, 82, 61);
+    height: 30vh;
+    padding: 0;
+}
+
+
+.caja12 {
+    background-color: rgb(17, 94, 196);
+    height: 20vh;
+    padding: 0;
+}
+
+.caja13 {
+    background-color: rgb(25, 129, 148);
+    height: 20vh;
+    padding: 0;
+}
+.caja14 {
+    background-color: rgb(42, 121, 134);
+    height: 20vh;
+    padding: 0;
+}
+.caja15 {
+    background-color: rgb(17, 94, 196);
+    height: 20vh;
+    padding: 0;
+}
+.caja16 {
+    background-color: rgb(14, 102, 153);
+    height: 20vh;
+    padding: 0;
+}
+.caja17 {
+    background-color: rgb(64, 33, 238);
+    height: 20vh;
+    padding: 0;
+}
+.caja18 {
+    background-color: rgb(98, 78, 209);
+    height: 40vh;
+    padding: 0;
+}
+
+.caja19 {
+    background-color: rgb(83, 66, 175);
+    height: 40vh;
+    padding: 0;
+}
+
+.caja20 {
+    background-color: rgb(38, 26, 104);
+    height: 40vh;
+    padding: 0;
+}
+
+.caja21 {
+    background-color: rgb(27, 13, 104);
+    height: 40vh;
+    padding: 0;
+}
+
+.caja22 {
+    background-color: rgb(49, 21, 209);
+    height: 40vh;
+    padding: 0;
+}
+
+.caja23 {
+    background-color: rgb(27, 15, 94);
+    height: 40vh;
+    padding: 0;
+}
+
+.caja24 {
+    background-color: rgb(14, 5, 68);
+    height: 40vh;
+    padding: 0;
+}
+
+.caja25 {
+    background-color: rgb(98, 78, 209);
+    height: 40vh;
+    padding: 0;
+}
+
+.caja26 {
+    background-color: rgb(32, 209, 121);
+    height: 30vh;
+    padding: 0;
+}
+.caja27 {
+    background-color: rgb(43, 151, 97);
+    height: 30vh;
+    padding: 0;
+}
+.caja28 {
+    background-color: rgb(39, 82, 61);
+    height: 30vh;
+    padding: 0;
+}
+
+.caja29 {
+    background-color: rgb(170, 107, 25);
+    height: 10vh;
+    padding: 0;
+}
+
+.caja30 {
+    background-color: rgb(174, 218, 18);
+    height: 10vh;
+    padding: 0;
+}
+
+
+
+@media screen and (max-width: 900px) {
+ .caja1 {
+  height: 10vh;
+ }
+
+}
+@media screen and (max-width: 900px) {
+ .caja2 {
+  height: 10vh;
+ }
+}
+@media screen and (max-width: 900px) {
+    .caja3 {
+     height: 10vh;
+    }
+   }
